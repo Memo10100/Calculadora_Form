@@ -1,0 +1,20 @@
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\bin\Debug\WindowsFormsApp Calculadora Inmueble.exe.config
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\bin\Debug\WindowsFormsApp Calculadora Inmueble.exe
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\bin\Debug\WindowsFormsApp Calculadora Inmueble.pdb
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp_Calculadora_Inmueble.Form1.resources
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp_Calculadora_Inmueble.Properties.Resources.resources
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.exe
+C:\Users\Juan\source\repos\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\bin\Debug\WindowsFormsApp Calculadora Inmueble.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\bin\Debug\WindowsFormsApp Calculadora Inmueble.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\bin\Debug\WindowsFormsApp Calculadora Inmueble.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp_Calculadora_Inmueble.Form1.resources
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp_Calculadora_Inmueble.Properties.Resources.resources
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Windos Form\WindowsFormsApp Calculadora Inmueble\WindowsFormsApp Calculadora Inmueble\obj\Debug\WindowsFormsApp Calculadora Inmueble.csproj.CoreCompileInputs.cache
